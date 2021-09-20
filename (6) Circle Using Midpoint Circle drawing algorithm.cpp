@@ -53,7 +53,7 @@ int main()
     Brhcircle(xc,yc,r-3);
     Brhcircle(xc,yc,r-4);
     Brhcircle(xc,yc,r-5);
-    printf("--Sorry but,To make the assignment more interesting i drew 5 circles (the outermost circle is the true one ) --------------------");
+    printf("--To make the assignment more interesting i drew 5 circles (the outermost circle is the true one ) --------------------");
     printf("------------------------------------Thanks and have a nice day --------------------------------------");
     _getch();
  return 0;
