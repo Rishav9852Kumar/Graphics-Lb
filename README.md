@@ -1,5 +1,5 @@
 ## Graphics-Lb
-All labs of Graphics desining with output
+All labs of Graphics designing with output
 ## Rishav Kumar
 
 #### 1.Draw a human face [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/1.png)
