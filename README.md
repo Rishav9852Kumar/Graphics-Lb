@@ -9,6 +9,6 @@ All labs of Graphics desining with output
 #### 5.Draw a Circle Using Brenham Circle Drawing Algorithm [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/5.PNG)
 #### 6.Draw a Circle Using Midpoint Circle drawing algorithm [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/6.PNG)
 #### 7.Draw an Ellipse using Mid-Point Ellipse Drawing algorithm [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/7.png)
-#### 8.Line Clipping Algorithm [Image](.)
+#### 8.Line Clipping Algorithm [Input](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/8.1.PNG)   [Output 1](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/8.2.PNG) [Output 2](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/8.3.PNG)
 
 
