@@ -1,6 +1,6 @@
 ## Graphics-Lb
 All labs of Graphics designing with output
-## Rishav Kumar
+## Rishav Kumar                             Faculty -Dr. Prasenjit Dey
 
 #### 1.Draw a human face [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/1.png)
 #### 2.Draw a House and fill it with color and shades [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/2.png)
