@@ -3,7 +3,7 @@ All labs of Graphics designing with output
 ## Rishav Kumar  
 ## Faculty -Dr. Prasenjit Dey
 
-#### 0.Happy Holi [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a1.PNG) [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a2.PNG)[Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a3.PNG)
+#### 0.Happy Holi [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a1.PNG) [/ Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a2.PNG)  [/ Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/0.a3.PNG)
 #### 1.Draw a human face [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/1.png)
 #### 2.Draw a House and fill it with color and shades [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/2.png)
 #### 3.Draw a Line using DAA Algorithm [Image](https://github.com/Rishav9852Kumar/Graphics-Lb/blob/main/image/3.png)
